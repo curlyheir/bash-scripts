@@ -2,7 +2,7 @@
 
 # Linux Disk Cleanup Script
 # Clears temporary files, caches, old logs, and tracks freed space.
-# Run with sudo for full system cleanup (e.g., sudo ./cleanup.sh)
+# Run with sudo for full system cleanup (e.g., sudo ./syssoap.sh)
 
 # Ensure running as root for system-wide cleanup
 if [ "$EUID" -ne 0 ]; then
