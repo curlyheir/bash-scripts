@@ -3,7 +3,7 @@ import os
 def generate_readme():
     # Configuration
     target_extension = '.sh'          # Look for shell scripts
-    universal_icon = 'curly-heir-sh.jpg' # Your single icon for all .sh files
+    universal_icon = 'curly-heir-sh.jpg' # single icon for all .sh files
     
     readme_content = "# Shell Scripts\n\n| Preview | File Name |\n| :---: | :--- |\n"
     
